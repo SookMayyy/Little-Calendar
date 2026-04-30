@@ -1,0 +1,6 @@
+node_modules/
+dist/
+out/
+*.exe
+*.exe.map
+Little Calendar-win32-x64/
